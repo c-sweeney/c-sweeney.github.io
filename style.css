@@ -1,0 +1,28 @@
+html, body{	
+	height: 100%;
+	width: 100%;
+}
+
+body {
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+	background-image: url(https://images.unsplash.com/photo-1567062691477-fcbc8bbdf5b1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.jumbotron {
+	opacity: 0.7;
+	padding: 2em;
+}
+
+.btn {
+	opacity: 0.7;
+	background-color: #E6E9ED;
+	border: none;
+}
+
